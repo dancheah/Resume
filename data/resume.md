@@ -90,6 +90,3 @@ Diploma in Information Technology
 June 1996  
 
 _References available on request_  
-
-
-vim: sts=4 sw=4 ts=4 et ft=markdown

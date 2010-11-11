@@ -1,5 +1,5 @@
 Daniel Cheah  
-me@dancheah.com
+me at dancheah dot com
 
 [GitHub](http://github.com/dancheah)  
 [Blog](http://www.dancheah.com)  

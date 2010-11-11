@@ -1,87 +1,82 @@
-Daniel Mayer  
-dan@mayerdan.com  
-503-819-3246  
-821 Maryland Ave NE #305  
-Washington, DC 20002  
+Daniel Cheah  
+me@dancheah.com
 
-[GitHub](http://github.com/danmayer)  
-[Blog](http://mayerdan.com)  
+[GitHub](http://github.com/dancheah)  
+[Blog](http://www.dancheah.com)  
 
 Skills
 ----------------
+* Competent in Perl, Java, C, C++
+* Proficient with Linux, OS X and other Unix environments.
+* Familiar with Design Patterns, Unit Testing
+* Used Mason, Perforce, SVK, vim, HTML, SQL, JSP, CVS, Tomcat, Apache, Oracle, CORBA, PubSub,
 
-* Ruby
-  * Rails
-  * Sinatra
-  * Merb
-  * EventMachine
-  * DataMapper
-  * Custom EventMachine-based protocols
-
-* Tools
-  * Linux
-  * OS X
-  * Javascript (JQuery/Prototype)
-  * HTML
-  * Amazon Web Services (Ec2, SimpleDB, S3, SQS)
-  * Distributed Computing
-  * Apache
-  * MySQL
-  * PostgreSQL
-  * Schemaless DBs (NoSql)
-  * RESTul webservice API's
-
-* Style
-  * Pair Programming
-  * Test-Focused Development
-  * Distributed Teams
-  * Agile team management
-  * Contributor to Ruby OSS software
-  * Active on Github
 
 Work Experience
 ---------------
-__LivingSocial__  
-Software Developer  
-June 2010 - Current  
-Working with a small team of developers to grow LivingSocial. Working on mobile apps, mobile site, APIs, and backend tools.  
+__Amazon.com, Seattle, WA__  
+_Software Development Engineer, 8/2001-3/2009_  
 
-__Devver__  
-Founder / CTO / Ruby Software Developer  
-April 2008 - April 2010  
-Software startup to make the lives of developers easier. Originally developed accelerated testing for Ruby developers. More recently, launched getcaliper.com, which builds code analytics for all Rubygems and builds metrics for public and private git-based Ruby projects.  
+* Developed an event based metrics system to measure the different aspects of customer service
+* Drove Clickstream project to provide click level metrics for our web-based application.
+* Lead a Scrum project to build a batch processing system to enable Amazon to handle large scale customer problems.
+* Built Struts-like MVC framework for Perl/Mason website. 
+* Developed code generator to build C++ objects from database tables.
+* Developed customer service decision support engine. CS Policies 
+  are input into the system as a flowchart and automated decision 
+  logic is used to derive a conclusion. Conclusion is used by 
+  CS representatives to better handle a customer contact.
+* Worked on skill based routing service. Enable customer service to 
+  be more effective by routing customer contacts to the appropriate CS 
+  representative.
+* Did first port of Amazon codebase from Redhat 6.2 to 7.2
+* Implemented various use cases for an inhouse customer service 
+  web-based application.
+* Regular oncall rotation dealing with application's operational issues.
 
-* Built accelerated testing tool, using distributed computing services to run developer tests
-* Developed a cloud-based continuous integration server and notification services
-* Developed cloud-based code metrics and analytics project analyzer, which integrated with Rubygems.org to provide analytics on all public Rubygems and many OSS git-based projects (7000+ projects)
-* Member of a distributed agile team -- practiced daily standups, remote pair programming, and continuous integration
-* Worked extensively with cloud based services and distributed computing techniques. (EC2, Beanstalkd queues, Schemaless SimpleDB, S3)
-* Developed and deployed EventMachine, Merb, Rails, and Sinatra in production environments
+__University of Washington, Seattle, WA__  
+_Undergraduate Research, 09/2000-08/2001_  
 
-__Pretheory__  
-Founder  
-May 2007 - April 2008  
-Small Denver-based consumer web startup. Built [Seekler.com](http://seekler.com) to help people find the best of everything online by user generated, community-based top 10 lists on topics or products. Seekler was a social way to rank things with friends or the entire community.  
+* Constructed web server using the one.world framework. Web 
+  server supports persistent connections and request pipelining.
+* Explored algorithms for Internet routing to ease
+  congestion on links. Implemented various approximation
+  algorithms for minimum delay routing. Built tools to automate
+  collection and measurement of algorithms relative to each other.
+* Analyzed TCP/IP packet loss during compressing of trace data.
+  Performed benchmarks of LZO compression algorithms on x86 
+  and Alpha architectures.
 
-__Indigio__  
-Java Lead Engineer  
-August 2006 - May 2007  
-Developed web sites for Fortune 500 companies. Managed a small Java team with local and international remote employees.  
+__Amazon.com, Seattle, WA__  
+_Software Development Engineer Intern, 06/2000-09/2000_  
 
-* Developed and deployed large scale newspaper, real estate, and car rental companies Java sites
+* Implemented various use cases for an inhouse customer service web-based 
+  application.
 
+__University of Washington, Seattle, WA__  
+_CSE142 Lab Consultant, 03/2000-05/2000_  
 
-__Impact Science & Technology (IST)__  
-Java Software Engineer  
-December 2005 - June 2006  
-Developed full lifecycle of a DOD distributed synchronous infrastructure in Java.  
+* Helped CSE142 students with introductory programming assignments.
+    
+__CSA Private Limited, Singapore__  
+_Programmer Analyst, 12/1995-06/1997_  
+
+* Built server software to forward messages from paging operators to
+  paging hardware.
+* Implemented front end software used by banks to handle
+  electronic messages to and from local monetary authority.
 
 
 Education
----------------  
-University of Colorado  
-Boulder, CO  
-B.S., Computer Science  
-GPA: 3.185  
+---------------
+University of Washington  
+Seattle, WA  
+B.S. with Distinction, Cum Laude; Computer Science  
+June 2001  
+
+Nanyang Polytechnic  
+Singapore  
+Diploma in Information Technology  
+June 1996  
 
 _References available on request_  

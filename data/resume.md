@@ -14,6 +14,16 @@ Skills
 
 Work Experience
 ---------------
+__Big Fish Games, Seattle WA__  
+_Senior Software Development Engineer_  
+_5/2009 - 5/2010_  
+
+* Led development of the new affiliate system: http://affiliates.bigfishgames.com
+
+_6/2010 - Present_  
+
+* Building new features on the ecommerce platform
+
 __Amazon.com, Seattle, WA__  
 _Software Development Engineer, 8/2001-3/2009_  
 
@@ -80,3 +90,6 @@ Diploma in Information Technology
 June 1996  
 
 _References available on request_  
+
+
+vim: sts=4 sw=4 ts=4 et ft=markdown

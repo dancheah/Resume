@@ -7,11 +7,18 @@ require 'less'
 require 'rdiscount'
 require 'maruku'
 
+# DC: Added this so that sinatra would run
+# and not just exit the script
+enable :run
+
 get '/' do
    title = resume_data.split("\n").first
    #oops 1.8.7 only?
     #resume_data.lines.first.strip
    resume = RDiscount.new(resume_data, :smart).to_html
+   # DC: Need to set the views for erubis otherwise
+   # I would get a big old error message
+   set :views, File.dirname(__FILE__) + '/views'
    erubis :index, :locals => { :title => title, :resume => resume, :formats => true }
 end
 

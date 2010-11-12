@@ -7,6 +7,9 @@ require 'less'
 require 'rdiscount'
 require 'maruku'
 
+# TODO: I should just make markdown text, html and pdf
+# as the 3 formats available
+
 # DC: Added this so that sinatra would run
 # and not just exit the script
 enable :run

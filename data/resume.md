@@ -1,5 +1,6 @@
 Daniel Cheah  
-me at dancheah dot com
+me at dancheah dot com  
+(425) 390-4381  
 
 [GitHub](http://github.com/dancheah)  
 [Blog](http://www.dancheah.com)  
@@ -7,22 +8,25 @@ me at dancheah dot com
 Skills
 ----------------
 * Competent in Perl, Java, C, C++
+* Used Python, Ruby, Haskell, PHP
 * Proficient with Linux, OS X and other Unix environments.
 * Familiar with Design Patterns, Unit Testing
-* Used Mason, Perforce, SVK, vim, HTML, SQL, JSP, CVS, Tomcat, Apache, Oracle, CORBA, PubSub,
+* Oracle, MySQL
+* Apache, Tomcat, Nginx
+* Mason, HTML, SQL, JSP
+* Perforce, Subversion, Git, CVS
+* CORBA, PubSub, Message Queues, XML-RPC, REST
 
 
 Work Experience
 ---------------
 __Big Fish Games, Seattle WA__  
-_Senior Software Development Engineer_  
-_5/2009 - 5/2010_  
+_Senior Software Development Engineer, 3/2009 - Present_
 
 * Led development of the new affiliate system: http://affiliates.bigfishgames.com
-
-_6/2010 - Present_  
-
-* Building new features on the ecommerce platform
+* Message queue based system
+* CD Messaging
+* International Sites and International Currency
 
 __Amazon.com, Seattle, WA__  
 _Software Development Engineer, 8/2001-3/2009_  
@@ -90,3 +94,7 @@ Diploma in Information Technology
 June 1996  
 
 _References available on request_  
+
+<!-- 
+vim: sts=4 sw=4 ts=4 et ft=markdown 
+-->

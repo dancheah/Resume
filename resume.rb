@@ -31,13 +31,14 @@ get '/style.css' do
 end
 
 get '/latex' do
-  content_type 'application/x-latex'
+  #content_type 'application/x-latex'
+  content_type "text/plain"
   doc = Maruku.new(resume_data)
   doc.to_latex_document
 end
 
 get '/markdown' do
-  content_type 'application/markdown'
+  content_type 'text/plain'
   resume_data
 end
 

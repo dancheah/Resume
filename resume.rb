@@ -37,7 +37,7 @@ get '/latex' do
   doc.to_latex_document
 end
 
-get '/markdown' do
+get '/text' do
   content_type 'text/plain'
   resume_data
 end

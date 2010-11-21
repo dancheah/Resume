@@ -6,7 +6,7 @@
 <body>
    <% if defined? formats && formats %>
    <div id='formats'>
-     Formats: <a href="/">HTML</a> | <a href='pdf'>PDF</a> | <a href='markdown'>Markdown</a>
+     Formats: <a href="/">HTML</a> | <a href='pdf'>PDF</a> | <a href='text'>Text</a>
    </div>
    <% end %>
    <div id="resume">

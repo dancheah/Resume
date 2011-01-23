@@ -8,7 +8,7 @@ me at dancheah dot com
 
 Objective
 ----------------
-Learn. Mentor. Write Code. Build Systems. Work on interesting problems.
+Learn. Mentor. Write Code. Build Systems. Solve Problems.
 
 
 Skills

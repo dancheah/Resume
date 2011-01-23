@@ -14,7 +14,10 @@
    </div>
    </br>
    <div id='footer'>
-     This resume is Ruby, powered by <a href="http://github.com/danmayer/Resume">Ruby Resume</a>.
    </div>
 </body>
 </html>
+<!--
+This resume is Ruby, powered by <a href="http://github.com/danmayer/Resume">Ruby Resume</a>.
+vim: sts=4 sw=4 ts=4 et ft=html
+-->

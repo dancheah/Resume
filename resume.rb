@@ -7,22 +7,23 @@ require 'less'
 require 'rdiscount'
 require 'maruku'
 
-# TODO: I should just make markdown text, html and pdf
-# as the 3 formats available
+# Modified this so that only HTML, PDF and Text 
+# are the 3 formats available.
+# TODO: latex
 
 # DC: Added this so that sinatra would run
 # and not just exit the script
 enable :run
 
 get '/' do
-   title = resume_data.split("\n").first
-   #oops 1.8.7 only?
+    title = resume_data.split("\n").first
+    #oops 1.8.7 only?
     #resume_data.lines.first.strip
-   resume = RDiscount.new(resume_data, :smart).to_html
-   # DC: Need to set the views for erubis otherwise
-   # I would get a big old error message
-   set :views, File.dirname(__FILE__) + '/views'
-   erubis :index, :locals => { :title => title, :resume => resume, :formats => true }
+    resume = RDiscount.new(resume_data, :smart).to_html
+    # DC: Need to set the views for erubis otherwise
+    # I would get a big old error message
+    set :views, File.dirname(__FILE__) + '/views'
+    erubis :index, :locals => { :title => title, :resume => resume, :formats => true }
 end
 
 get '/style.css' do
@@ -42,21 +43,15 @@ get '/text' do
   resume_data
 end
 
-# note this only works if pdflatex is installed which is part of most LaTeX packages, but doesn't work on Heroku
-# TODO if this ever works on heroku clean it up and add caching
 get '/pdf' do
-  content_type 'application/x-latex'
-  pdf_file = 'tmp/resume.pdf'
-  latex_file = 'tmp/resume.tex'
-
-  return File.read(pdf_file) if File.exists?(pdf_file)
-  doc = Maruku.new(resume_data)
-  tex = doc.to_latex_document
-  File.open(latex_file, 'w') {|f| f.write(tex) }
-  `cd tmp && pdflatex resume.tex -interaction=nonstopmode` #'
-  File.read(pdf_file)
+    # Just generate the pdf file manually as
+    # pdflatex doesn't work on heroku
+    content_type 'application/pdf'
+    File.read("data/resume.pdf")
 end
 
 def resume_data
-  File.read("data/resume.md")
+    File.read("data/resume.md")
 end
+
+# vim: sts=4 sw=4 ts=4 et ft=ruby

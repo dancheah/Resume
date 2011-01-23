@@ -5,35 +5,41 @@ me at dancheah dot com
 [GitHub](http://github.com/dancheah)  
 [Blog](http://www.dancheah.com)  
 
+
+Objective
+----------------
+Learn. Mentor. Write Code. Build Systems. Work on interesting problems.
+
+
 Skills
 ----------------
-* Competent in Perl, Java, C, C++
-* Used Python, Ruby, Haskell, PHP
+* Competent in Perl, Java
+* Familiar with Python, C, C++
+* Experimented with PHP, Ruby, Haskell, Clojure
 * Proficient with Linux, OS X and other Unix environments.
 * Familiar with Design Patterns, Unit Testing
-* Oracle, MySQL
-* Apache, Tomcat, Nginx
-* Mason, HTML, SQL, JSP
+* Oracle, MySQL, sqlite, redis
+* Apache, Tomcat, nginx
+* Mason, HTML, JSP
 * Perforce, Subversion, Git, CVS
-* CORBA, PubSub, Message Queues, XML-RPC, REST
+* Message Queues, REST
 
 
 Work Experience
 ---------------
-__Big Fish Games, Seattle WA__  
-_Senior Software Development Engineer, 3/2009 - Present_
+__Big Fish Games, Seattle WA__   
+_Senior Software Development Engineer, 3/2009 - Present_   
 
-* Led development of the new affiliate system: http://affiliates.bigfishgames.com
-* Message queue based system
-* CD Messaging
-* International Sites and International Currency
+* Working on a new generic user attribute system to consolidate silos of customer data with the organization. (Python, redis, MySQL) 
+* Worked on the ecommerce team to deliver CD Messaging and help launch 5 new international sites and currencies. (PHP)
+* Led development of [new affiliate system](http://affiliates.bigfishgames.com) to improve customer acquisition. Responsible for large parts of backend architecture and code. Guided front end developers on front end website and customer support tool. (Java, ActiveMQ, Spring, MySQL)
 
 __Amazon.com, Seattle, WA__  
 _Software Development Engineer, 8/2001-3/2009_  
 
-* Developed an event based metrics system to measure the different aspects of customer service
-* Drove Clickstream project to provide click level metrics for our web-based application.
-* Lead a Scrum project to build a batch processing system to enable Amazon to handle large scale customer problems.
+* Developed an event based metrics system to measure the different aspects of customer service.
+* Prototyped Clickstream project to provide click level metrics for our web-based application.
+* Led a Scrum project to build a batch processing system to enable Amazon to handle large scale customer problems.
 * Built Struts-like MVC framework for Perl/Mason website. 
 * Developed code generator to build C++ objects from database tables.
 * Developed customer service decision support engine. CS Policies 
@@ -43,7 +49,7 @@ _Software Development Engineer, 8/2001-3/2009_
 * Worked on skill based routing service. Enable customer service to 
   be more effective by routing customer contacts to the appropriate CS 
   representative.
-* Did first port of Amazon codebase from Redhat 6.2 to 7.2
+* Did initial port of Amazon C/C++ codebase from Redhat 6.2 to 7.2
 * Implemented various use cases for an inhouse customer service 
   web-based application.
 * Regular oncall rotation dealing with application's operational issues.
@@ -96,5 +102,6 @@ June 1996
 _References available on request_  
 
 <!-- 
+Sun Jan 23 09:10:16 PST 2011
 vim: sts=4 sw=4 ts=4 et ft=markdown 
 -->

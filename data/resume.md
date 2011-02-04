@@ -9,8 +9,10 @@ me at dancheah dot com
 
 Summary
 ----------------
-Experienced software developer comfortable working with large, complex distributed systems, shipping code and debugging systems
-simplfy complex business requirements
+Software developer with over ten years of experience building and supporting large, 
+complex, distributed systems. Major strengths include a pragmatic approach to problem
+solving, communicating ideas and tradeoffs to technical and non-technical 
+people, building consensus among team members and mentoring junior developers.
 
 
 Skills
@@ -21,7 +23,7 @@ Skills
 * Web Servers: Apache, Tomcat, Nginx
 * Distributed Computing: ActiveMQ, Message Queues, XML-RPC, REST, CORBA
 * Templating/Markup: HTML, JSP, Mason
-* Frameworks/Libraries: Spring Framework, JUnit, iBatis  
+* Frameworks/Libraries: Spring Framework, JUnit, iBatis/MyBatis  
 * Version Control: Git, Perforce, Subversion, CVS
 
 

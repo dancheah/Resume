@@ -4,25 +4,30 @@ me at dancheah dot com
 
 [GitHub](http://github.com/dancheah)  
 [Blog](http://www.dancheah.com)  
+[LinkedIn](http://www.linkedin.com/dancheah)
 
 
-Objective
+Summary
 ----------------
-Learn. Mentor. Write Code. Build Systems. Solve Problems.
+Experienced software developer comfortable working with large, complex distributed systems, shipping code and debugging systems
+simplfy complex business requirements
 
 
 Skills
 ----------------
-* Competent in Perl, Java
-* Familiar with Python, C, C++
-* Experimented with PHP, Ruby, Haskell, Clojure
-* Proficient with Linux, OS X and other Unix environments.
-* Familiar with Design Patterns, Unit Testing
-* Oracle, MySQL, sqlite, redis
-* Apache, Tomcat, nginx
-* Mason, HTML, JSP
-* Perforce, Subversion, Git, CVS
-* Message Queues, REST
+* Programming Languages: Java, Perl, Python, C, C++
+* OS: Linux, OS X and other Unix environments
+* Database: Oracle, MySQL, SQLite, Redis
+* Web Servers: Apache, Tomcat, Nginx
+* Distributed Computing: ActiveMQ, Message Queues, XML-RPC, REST, CORBA
+* Templating/Markup: HTML, JSP, Mason
+* Frameworks/Libraries: Spring Framework, JUnit, iBatis  
+* Version Control: Git, Perforce, Subversion, CVS
+
+
+Current Interests
+----------------
+* Ruby, Haskell, Clojure, Scala, Akka, iOS, Hadoop, Riak, ZeroMQ
 
 
 Work Experience
@@ -30,29 +35,30 @@ Work Experience
 __Big Fish Games, Seattle WA__   
 _Senior Software Development Engineer, 3/2009 - Present_   
 
-* Working on a new generic user attribute system to consolidate silos of customer data with the organization. (Python, redis, MySQL) 
-* Worked on the ecommerce team to deliver CD Messaging and help launch 5 new international sites and currencies. (PHP)
-* Led development of [new affiliate system](http://affiliates.bigfishgames.com) to improve customer acquisition. Responsible for large parts of backend architecture and code. Guided front end developers on front end website and customer support tool. (Java, ActiveMQ, Spring, MySQL)
+* Led development of [new affiliate system](http://affiliates.bigfishgames.com) to improve customer acquisition. Responsible for backend architecture and code. Guided web developers on front end website and customer support tool. (Java, Jython, ActiveMQ, Spring, MySQL)
+* Working on a new generic user attribute system to consolidate silos of customer data with the organization. (Python, Tornado, Redis, MySQL) 
 
 __Amazon.com, Seattle, WA__  
 _Software Development Engineer, 8/2001-3/2009_  
 
-* Developed an event based metrics system to measure the different aspects of customer service.
-* Prototyped Clickstream project to provide click level metrics for our web-based application.
-* Led a Scrum project to build a batch processing system to enable Amazon to handle large scale customer problems.
+* Led development of new batch processing system to enable handling of large scale customer support issues. Mentored support engineers to become SDEs within Amazon. (Java, Perl, dojo)
+* Developed an event based metrics system to measure the different aspects of customer service. (Java, Perl)
+* Prototyped Clickstream project to provide click level metrics for our web-based application. (Perl)
+* Performance metrics
 * Built Struts-like MVC framework for Perl/Mason website. 
-* Developed code generator to build C++ objects from database tables.
+* Developed code generator to build C++ objects from database tables. (Perl)
 * Developed customer service decision support engine. CS Policies 
   are input into the system as a flowchart and automated decision 
   logic is used to derive a conclusion. Conclusion is used by 
-  CS representatives to better handle a customer contact.
+  CS representatives to better handle a customer contact. (C++, Java, JSP)
 * Worked on skill based routing service. Enable customer service to 
   be more effective by routing customer contacts to the appropriate CS 
-  representative.
-* Did initial port of Amazon C/C++ codebase from Redhat 6.2 to 7.2
-* Implemented various use cases for an inhouse customer service 
-  web-based application.
-* Regular oncall rotation dealing with application's operational issues.
+  representative. (C++, Java, JSP)
+* Did initial port of Amazon C/C++ codebase from Redhat 6.2 to 7.2. Estimated lines of 
+code at the time was 
+* Maintained, developed and dealt with operational issues of Amazon Wrote large 
+parts of an inhouse customer service dealing with orders, shipments, 
+customer relationship management, refunds, customer contacts.  Regular oncall rotation dealing with application's operational issues.
 
 __University of Washington, Seattle, WA__  
 _Undergraduate Research, 09/2000-08/2001_  
@@ -67,26 +73,6 @@ _Undergraduate Research, 09/2000-08/2001_
   Performed benchmarks of LZO compression algorithms on x86 
   and Alpha architectures.
 
-__Amazon.com, Seattle, WA__  
-_Software Development Engineer Intern, 06/2000-09/2000_  
-
-* Implemented various use cases for an inhouse customer service web-based 
-  application.
-
-__University of Washington, Seattle, WA__  
-_CSE142 Lab Consultant, 03/2000-05/2000_  
-
-* Helped CSE142 students with introductory programming assignments.
-    
-__CSA Private Limited, Singapore__  
-_Programmer Analyst, 12/1995-06/1997_  
-
-* Built server software to forward messages from paging operators to
-  paging hardware.
-* Implemented front end software used by banks to handle
-  electronic messages to and from local monetary authority.
-
-
 Education
 ---------------
 University of Washington  
@@ -98,6 +84,11 @@ Nanyang Polytechnic
 Singapore  
 Diploma in Information Technology  
 June 1996  
+
+Interests
+---------------
+* Experimented with PHP, Ruby, Haskell, Clojure
+
 
 _References available on request_  
 

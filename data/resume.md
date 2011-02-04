@@ -43,7 +43,7 @@ _Software Development Engineer, 8/2001-3/2009_
 * Led development of new batch processing system to enable handling of large scale customer support issues. Mentored support engineers to become SDEs within Amazon. 
 * Developed and supported multiple generations of Amazon's internally 
 developed customer relationship management application. Dealt with all facets of 
-the applications from email delivery, composing emails, billing, order manipulation,
+the application from email delivery, composing emails, billing, order manipulation,
 refunds and replacements.
 * Developed an event based metrics system to measure the different aspects of customer service. 
 * Prototyped Clickstream project to provide click level metrics for our web-based application. 

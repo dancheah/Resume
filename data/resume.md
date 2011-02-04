@@ -78,6 +78,6 @@ Interests
 * Ruby, Haskell, Clojure, F#, Scala, Akka, iOS, Hadoop, Riak, ZeroMQ, Play Framework
 
 <!-- 
-Sun Jan 23 09:10:16 PST 2011
+Thu Feb  3 22:36:38 PST 2011
 vim: sts=4 sw=4 ts=4 et ft=markdown 
 -->

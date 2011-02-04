@@ -50,6 +50,11 @@ get '/pdf' do
     File.read("data/resume.pdf")
 end
 
+get '/word' do
+    content_type 'application/msword'
+    File.read("data/resume.doc")
+end
+
 def resume_data
     File.read("data/resume.md")
 end

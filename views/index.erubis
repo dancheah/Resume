@@ -1,12 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
    <title><%= title %></title>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
    <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
 <body>
    <% if defined? formats && formats %>
-   <div id='formats'>
-     Formats: <a href="/">HTML</a> | <a href='pdf'>PDF</a> | <a href='text'>Text</a>
+   <div id="formats">
+       Formats: <a href="/">HTML</a> | <a href="pdf">PDF</a> | <a href="text">Text</a> | <a href="word">Word</a>
    </div>
    <% end %>
    <div id="resume">
